@@ -1,5 +1,5 @@
 # Engeto-Project2
-Bulls &amp; Cows\
+\
 Jedna se o Bulls &amp; Cows projekt\
 Hra vygeneruje nahodne cislo od 1 do 9, kde kazda cislice muze byt obsazena pouze jednou\
 Uzivatel hada tajne, vygenerovane cislo.\
