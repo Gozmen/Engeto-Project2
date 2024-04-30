@@ -1,3 +1,11 @@
+"""
+projekt_2.py: Bulls & Cows projekt do Engeto Online Python Akademie
+
+author: Jakub Dostál
+email: gozo.jakub@gmail.com
+discord: gozo197, Gozo#2494
+"""
+
 import random
 import time
 
