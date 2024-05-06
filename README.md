@@ -1,7 +1,7 @@
 # Engeto-Project2
 \
 Jedna se o Bulls &amp; Cows projekt\
-Hra vygeneruje nahodne cislo od 1 do 9, kde kazda cislice muze byt obsazena pouze jednou\
+Hra vygeneruje nahodne cislo od 0 do 9, kde kazda cislice muze byt obsazena pouze jednou a první znas nesmí být 0\
 Uzivatel hada tajne, vygenerovane cislo.\
 Kontrola uzivatelskeho vstupu zajisti, aby zadane cislo melo skutecne pouze 4 znaky, bylo v rozmezi 1-9, neobsahovalo zadne jine znaky krome cisel a kazde cislo bylo unikatni.\
 Pokud je hadana cislice obsazena v tajnem cisle, zvysi se uzivateli hodnota COW o jednicku. Pokud uzivatel trefi cislici i jeji pozici v tajnem cisle, zvysi se hodnota BULL o jednicku.\
